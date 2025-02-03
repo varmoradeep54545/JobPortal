@@ -9,6 +9,7 @@ JobPortal is a Node.js-based application that allows users to submit job applica
 - Fetch all job applications.
 
 ## Technologies Used
+- React.js
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
